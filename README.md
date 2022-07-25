@@ -1,4 +1,4 @@
-# scientific-taxonomy-pattern
+# Scientific-Taxonomy-Pattern
 An Ontology Design Pattern for Representing Scientific Taxonomies
 
 
