@@ -1,5 +1,10 @@
 # Scientific-Taxonomy-Pattern
 An Ontology Design Pattern for Representing Scientific Taxonomies
 
+## Schema Diagram
+![schema diagram for the computational observation pattern](./schema-diagram/scientific-taxonomy-pattern.png)
 
-![scientific-taxonomy-pattern](https://user-images.githubusercontent.com/83850204/180700369-31edd392-db7f-41e9-a230-b7758a0fa518.png)
+## [Formalization](./scientific-taxonomy-pattern.owl)
+
+## Usage
+If you use this pattern academically, we kindly ask that you cite our canonical paper, located in the publications folder. 
